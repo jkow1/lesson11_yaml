@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4dc7665-9472-4030-a7cf-55c6119aac33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/AppProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/DriverHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/configuration/YamlConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Environment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/EnvironmentModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TitleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestResultLoggerExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/logback/BasicLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/logback/CustomColorConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4dc7665-9472-4030-a7cf-55c6119aac33" name="Changes" comment="Task 11 yaml configuration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663586210867</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task 11 yaml configuration">
+      <created>1663673987740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663673987741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 11 yaml configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 11 yaml configuration" />
   </component>
 </project>
