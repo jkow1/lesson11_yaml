@@ -18,7 +18,8 @@ public class TestResultLoggerExtension implements TestWatcher, AfterAllCallback 
     private List<TestResultStatus> testResultsStatus = new ArrayList<>();
 
     private enum TestResultStatus {
-        SUCCESSFUL, FAILED
+        SUCCESSFUL,
+        FAILED
     }
 
     @Override
